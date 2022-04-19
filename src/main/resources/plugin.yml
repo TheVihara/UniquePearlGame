@@ -1,0 +1,6 @@
+name: UniquePearlGame
+version: '${version}'
+main: ga.uniquecoding.uniquepearlgame.UniquePearlGame
+api-version: 1.18
+authors: [ bestmale ]
+description: Very cool pearls game!

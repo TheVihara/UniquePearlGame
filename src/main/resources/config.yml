@@ -1,0 +1,7 @@
+max-players: 2
+countdown-seconds: 30
+
+game-start-message: ""
+full-game-message: ""
+already-in-game-message: ""
+not-in-game-message: ""
